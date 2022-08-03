@@ -15,44 +15,28 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="array1.c">
+    <ClCompile Include="func_test.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="array2.c">
+    <ClCompile Include="test1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="bubblesort.c">
+    <ClCompile Include="variableScope.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="arraytest.c">
+    <ClCompile Include="..\..\..\..\..\C_Basic\CH05\Bank.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="array3.c">
+    <ClCompile Include="file1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="array4.c">
+    <ClCompile Include="file2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="array5.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="scroeArray.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer4.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer5.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="file.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

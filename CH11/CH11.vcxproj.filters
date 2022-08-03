@@ -15,43 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="array1.c">
+    <ClCompile Include="struct1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="array2.c">
+    <ClCompile Include="struct2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="bubblesort.c">
+    <ClCompile Include="struct3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="arraytest.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="array3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="array4.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="array5.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="scroeArray.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer4.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer5.c">
+    <ClCompile Include="quiz.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
